@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 # Set up the title of the app
 st.title("Household Budgeting App")
